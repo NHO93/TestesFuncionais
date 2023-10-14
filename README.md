@@ -1,2 +1,7 @@
 
-Este repositorio armazena documentação solicitada pra a conclusão do desafio de projeto: O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais.
+## Neste repositorio contem a documentação solicitada mediante o desafio DIO:
+---
+O Dia a Dia de um QA
+---
+E as Práticas de Testes Manuais Funcionais.
+---
